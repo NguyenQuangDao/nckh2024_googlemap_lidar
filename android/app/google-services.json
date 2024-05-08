@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "216484836183",
+    "project_id": "nckh2024ggmaplidar",
+    "storage_bucket": "nckh2024ggmaplidar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216484836183:android:f5759bff45062d2e314412",
+        "android_client_info": {
+          "package_name": "com.example.googlemap_lidar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBb_8fa9KUrEDMMMckHwpiREmEVNcXVHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
